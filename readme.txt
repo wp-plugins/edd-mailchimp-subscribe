@@ -1,4 +1,4 @@
-=== EDD Mailchimp Subscibe ===
+=== EDD Mailchimp Subscribe ===
 Contributors: aman086
 Donate link: http://amansaini.me/
 Requires at least: 3.0.5
@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-EDD Mailchimp Subscibe WordPress plugin displays a newsletter signup checkbox on checkout for Easy Digital Download integrated with MailChimp
+EDD Mailchimp Subscribe WordPress plugin displays a newsletter signup checkbox on checkout for Easy Digital Download integrated with MailChimp
 
 == Description ==
 This plugin provides an easy, lightweight way to let your users sign up for your mailchimp list from the checkout page of easy digital download page.
