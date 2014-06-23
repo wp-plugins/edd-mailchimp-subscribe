@@ -1,12 +1,11 @@
 <?php
 /*
-Plugin Name: EDD Mailchimp Subscribe
+Plugin Name: Easy Digital Downloads Mailchimp Subscribe
 Plugin URI: http://www.amansaini.me
 Description: Allows customers to signup for your MailChimp newsletter during checkout with double-opt option.
 Version: 1.0.3
 Author: Aman Saini
 Author URI: http://www.amansaini.me
-
 */
 
 // Namespace: eddms

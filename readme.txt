@@ -1,14 +1,14 @@
-=== EDD Mailchimp Subscribe ===
+=== Easy Digital Downloads Mailchimp Subscribe ===
 Contributors: aman086
 Donate link: http://amansaini.me/
 Requires at least: 3.0.5
-Tags:mailchimp, mailchimp api,easy digital downloads mailchimp, mailchimp integration,  edd mailchimp plugin
+Tags:mailchimp, mailchimp api,easy digital downloads mailchimp, mailchimp integration, edd mailchimp plugin, newsletter, edd newsletter
 Tested up to: 3.9.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-EDD Mailchimp Subscribe WordPress plugin displays a newsletter signup checkbox on checkout for Easy Digital Download integrated with MailChimp
+Easy Digital Downloads Mailchimp Subscribe WordPress plugin displays a newsletter signup checkbox on checkout for Easy Digital Download integrated with MailChimp
 
 == Description ==
 This plugin provides an easy, lightweight way to let your users sign up for your mailchimp list from the checkout page of easy digital download page.
@@ -30,7 +30,7 @@ This plugin provides an easy, lightweight way to let your users sign up for your
 
 == Installation ==
 
-To install Sendy , follow these steps:
+To install plugin, follow these steps:
 
 1.	Download and unzip the plugin
 2.	Upload the entire edd-mailchimp-subscribe/ directory to the /wp-content/plugins/ directory
