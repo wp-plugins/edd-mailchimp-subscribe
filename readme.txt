@@ -3,7 +3,7 @@ Contributors: aman086
 Donate link: http://amansaini.me/
 Requires at least: 3.0.5
 Tags:mailchimp, mailchimp api,easy digital downloads mailchimp, mailchimp integration, edd mailchimp plugin, newsletter, edd newsletter
-Tested up to: 3.9.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
