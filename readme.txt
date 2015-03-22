@@ -30,7 +30,7 @@ This plugin provides an easy, lightweight way to let your users sign up for your
 
 == Installation ==
 
-To install Sendy , follow these steps:
+To install EDD Mailchimp , follow these steps:
 
 1.	Download and unzip the plugin
 2.	Upload the entire edd-mailchimp-subscribe/ directory to the /wp-content/plugins/ directory
