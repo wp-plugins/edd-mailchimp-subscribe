@@ -119,7 +119,7 @@ function eddms_mailchimp_subscribe_user( $post, $user_info, $valid_data ) {
 			$listId = $settings['eddms_mailchimp_lists'];
 			$email = $user_info['email'];
 			$merge_vars = array( 'FNAME' => $user_info['first_name'], 'LNAME' => $user_info['last_name'] );
-			if ( $settings['eddms_mailchimp_double_optin'] == 'yes' ) {
+			if ( $settings['eddms_mailchimp_double_optin'] == '1' ) {
 				$double_optin=true;
 			}else {
 				$double_optin=false;
