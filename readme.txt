@@ -4,7 +4,7 @@ Donate link: http://amansaini.me/
 Requires at least: 3.5
 Tags:mailchimp, mailchimp api,esay digital downloads mailchimp, mailchimp integration,  edd mailchimp plugin
 Tested up to: 4.2
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,6 +58,9 @@ I will be glad to receive feedback.
 
 
 == Changelog ==
+
+= 1.1.1 =
+* Fixed double optin check.
 
 = 1.1 =
 * Fixed warning if api key is not set.
